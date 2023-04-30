@@ -2,8 +2,8 @@
 
 This is a web application that uses OpenAI's DALL-E to generate unique images based on textual descriptions.
 
-![Dall-E Clone Preview Image](https://ibb.co/vvcgR9y)
-![App Screenshot](https://ibb.co/561wd7L)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Dg1sTdc/Screenshot-2023-05-01-012710.png" alt="Screenshot-2023-05-01-012710" border="0"></a>
+<a href="https://ibb.co/561wd7L"><img src="https://i.ibb.co/0cnvkwr/Screenshot-2023-05-01-012648.png" alt="Screenshot-2023-05-01-012648" border="0"></a>
 
 ## Features
 

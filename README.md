@@ -15,6 +15,9 @@ This is a web application that uses OpenAI's DALL-E to generate unique images ba
 
 To install Dall-E Clone on your local environment, follow these steps:
 
+Clone the repository to your local machine using `git clone https://github.com/KaiAlan/Dall-E-clone.git`
+Navigate to the directory using `cd Dall-E-clone`.
+
 1. Install the required dependencies:
 ```
 npm install
@@ -36,7 +39,7 @@ npm run dev
 
 To use Dall-E Clone, follow these steps:
 
-1. Navigate to `http://localhost:5000` in your web browser.
+1. Navigate to `http://localhost:....` in your web browser.
 2. Input a textual description of the image you want to generate in the input field provided.
 3. Click the "Generate" button to generate an image.
 4. Download the generated image or generate a new image using a different textual description.

@@ -15,11 +15,22 @@ This is a web application that uses OpenAI's DALL-E to generate unique images ba
 
 To install Dall-E Clone on your local environment, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/KaiAlan/Dall-E-clone.git`.
-2. Navigate to the directory using `cd Dall-E-clone`.
-3. Install dependencies using `pip install -r requirements.txt`.
-4. Start the web application using `python app.py`.
-5. Access the application at `http://localhost:5000`.
+1. Install the required dependencies:
+```
+npm install
+```
+
+2. Create a `.env` file in the root directory with the following variables:
+   - `MONGODB_URI` - the URI for your MongoDB database
+   - `SESSION_SECRET` - a secret string for session management`[OPENAI_API_KEY]`
+   - `CLOUDINARY_CLOUD_NAME` - your Cloudinary cloud name
+   - `CLOUDINARY_API_KEY` - your Cloudinary API key
+   - `CLOUDINARY_API_SECRET` - your Cloudinary API secret
+
+3. Start the development server:
+```
+npm run dev
+```
 
 ## Usage
 
